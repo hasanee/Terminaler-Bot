@@ -219,6 +219,7 @@ function create_config( )
     "arabic_lock",
     "set",
     "get",
+    "hackernews",
     "broadcast",
     "download_media",
     "invite",
